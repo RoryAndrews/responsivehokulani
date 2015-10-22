@@ -1,0 +1,37 @@
+body {
+  color: white;
+  font-family: "Open Sans";
+}
+
+.top-banner {
+  background-image: url(images/banner.jpg);
+  background-size: cover;
+  height: 200px;
+}
+
+.navbar-fixed-top {
+  padding-top: 00px;
+}
+
+.navbar-inverse {
+  background-color: #3586EF;
+  border-color: #3586EF;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #FFD853;
+  font-size: 1.3em;
+}
+
+.well {
+  background-color: #3586EF;
+}
+
+h2 {
+  color: #FFD853;
+}
+
+.content-of-page {
+  padding-top: 0x;
+}
+
